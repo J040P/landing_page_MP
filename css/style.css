@@ -311,7 +311,7 @@ body{
 
 @media screen and (max-width: 500px){
     .home{
-        height: 128vh;
+        height: 130vh;
     }
     .main {
         flex-direction: column;
@@ -582,7 +582,7 @@ body{
 
 @media screen and (max-width: 375px) {
     .home{
-        height: 120vh;
+        height: 125vh;
     }
     .main {
         flex-direction: column;
