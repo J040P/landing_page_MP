@@ -492,6 +492,10 @@ body{
         width: 350px;
     }
 
+    .info-2 .btn_simula{
+        width: 350px;
+    } 
+
     .curiosidade {
         flex-direction: column;
         height: auto;
@@ -682,6 +686,7 @@ body{
     .btn {
         width: 90%;
     }
+    
 
     .beneficios {
         flex-direction: column;
@@ -760,6 +765,10 @@ body{
         transition: all 1s;
         overflow: hidden;
         margin-top: 1rem;
+        width: 300px;
+    }
+
+    .info-2 .btn_simula{
         width: 300px;
     }
 
@@ -1024,6 +1033,10 @@ body{
         width: 250px;
     }
 
+    .info-2 .btn_simula{
+        width: 250px;
+    } 
+
     .curiosidade {
         flex-direction: column;
         height: auto;
@@ -1278,6 +1291,11 @@ body{
         margin-top: 1rem;
         width: 250px;
     }
+
+
+    .info-2 .btn_simula{
+        width: 250px;
+    } 
 
     .curiosidade {
         flex-direction: column;
