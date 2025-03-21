@@ -311,7 +311,7 @@ body{
 
 @media screen and (min-width:376px) and (max-width: 500px){
     .home{
-        height: 115vh;
+        height: 200vh;
     }
     .main {
         flex-direction: column;
