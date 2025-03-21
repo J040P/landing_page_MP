@@ -311,7 +311,7 @@ body{
 
 @media screen and (max-width: 500px){
     .home{
-        height: 145vh;
+        height: 115vh;
     }
     .main {
         flex-direction: column;
@@ -582,7 +582,7 @@ body{
 
 @media screen and (max-width: 375px) {
     .home{
-        height: 140vh;
+        height: 107vh;
     }
     .main {
         flex-direction: column;
@@ -843,7 +843,7 @@ body{
 
 @media screen and (max-width: 320px) {
     .home{
-        height: 138vh;
+        height: 105vh;
     }
     .main {
         flex-direction: column;
@@ -1104,7 +1104,7 @@ body{
 
 @media screen and (min-width: 501px) and (max-width:1023px){
     .home{
-        height: 40vh;
+        height: 68vh;
     }
     .main {
         gap: 0;
@@ -1130,10 +1130,6 @@ body{
     .infos .caixa-texto{
         margin-bottom: 1rem;
         margin-top: 1.5rem;
-    }
-
-    .infos img {
-        width: 50%;
     }
 
     .foto img{
