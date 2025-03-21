@@ -309,7 +309,7 @@ body{
     width: 350px;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (min-width:376px) and (max-width: 500px){
     .home{
         height: 115vh;
     }
@@ -580,7 +580,7 @@ body{
     
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width:321px) and (max-width: 375px) {
     .home{
         height: 207vh;
     }
