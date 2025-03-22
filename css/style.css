@@ -134,7 +134,6 @@ body{
     padding-left: 8px;
     transition-duration: .5s;
     margin-top: .5rem;
-    margin-left: .6rem;
 }
   
 .svgIcon {
@@ -358,7 +357,7 @@ body{
 
 @media screen and (min-width:376px) and (max-width: 500px){
     .home{
-        height: 135vh;
+        height: 145vh;
     }
     .main {
         flex-direction: column;
@@ -493,7 +492,7 @@ body{
         width: 350px;
     }
 
-    .info-2 .btn_simula{
+    .info-2 .button-simula{
         width: 350px;
     } 
 
