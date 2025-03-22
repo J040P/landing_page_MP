@@ -158,7 +158,15 @@ body{
 .button-simula:hover .svgIcon {
     transform: rotate(250deg);
     transition-duration: 1.5s;
-}  
+}
+
+.fom{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
 
 .beneficios{
     display: flex;
